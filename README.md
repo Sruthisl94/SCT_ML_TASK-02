@@ -29,7 +29,7 @@ The dataset contains the following features:
 ## 🧠 Methodology
 
 ### 1. **Data Preprocessing**
-- Handled missing values (if any)
+- No missing values
 - Scaled features for better clustering performance
 
 ### 2. **Exploratory Data Analysis**
